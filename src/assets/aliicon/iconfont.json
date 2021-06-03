@@ -1,0 +1,107 @@
+{
+  "id": "1927983",
+  "name": "聊天",
+  "font_family": "icon",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1479604",
+      "name": "难过",
+      "font_class": "nanguo",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "806747",
+      "name": "赞",
+      "font_class": "zan",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "8201953",
+      "name": "表情",
+      "font_class": "biaoqing",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "9008512",
+      "name": "表情",
+      "font_class": "biaoqing1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "16232186",
+      "name": "减",
+      "font_class": "bianzu64",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "5093354",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "60688",
+      "name": "发送",
+      "font_class": "fasong",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "2486476",
+      "name": "聊天",
+      "font_class": "liaotian",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "12490650",
+      "name": "个人中心",
+      "font_class": "profile",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "12625654",
+      "name": "聊天+",
+      "font_class": "liaotian1",
+      "unicode": "e787",
+      "unicode_decimal": 59271
+    },
+    {
+      "icon_id": "15471480",
+      "name": "个人中心",
+      "font_class": "ren-o",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11488022",
+      "name": "cut",
+      "font_class": "cut",
+      "unicode": "e74b",
+      "unicode_decimal": 59211
+    },
+    {
+      "icon_id": "15726837",
+      "name": "开心",
+      "font_class": "kaixin",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "15726934",
+      "name": "图片添加",
+      "font_class": "tupiantianjia",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    }
+  ]
+}
